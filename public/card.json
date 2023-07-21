@@ -1,0 +1,20 @@
+[
+    {
+      "_id": "6487c5634ca71df66dae800d",
+      "img": "https://images6.alphacoders.com/439/thumb-1920-439410.jpg",
+      "name": "Chicken",
+      "detail": "Peruvian-Style Roast Chicken With Tangy Green Sauce"
+    },
+    {
+      "_id": "6487c563bae7b5a142230f98",
+      "img": "https://images.immediate.co.uk/production/volatile/sites/30/2014/05/Epic-summer-salad-hub-2646e6e.jpg",
+      "name": "Salads",
+      "detail": "Giant couscous salad with charred veg & tangy pesto"
+    },
+    {
+      "_id": "6487c56353fb76aa3830a779",
+      "img": "https://www.eatwell101.com/wp-content/uploads/2020/02/chicken-soup-recipe-3.jpg",
+      "name": "Soups",
+      "detail": "Creamy Chicken Soup with Pasta and Spinach"
+    }
+  ]
